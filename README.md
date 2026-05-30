@@ -180,4 +180,4 @@ Comunidad y academia de IA aplicada en español. 600+ miembros aprendiendo a con
 
 ---
 
-_Hecho con cariño por [Santiago Muñoz](https://horizontesia.com) — Horizontes IA_
+_Hecho con cariño por
